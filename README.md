@@ -2,5 +2,4 @@
 ## Empezando a documentar
 Esta es mi primera vez
 
-
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[Atajos](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
