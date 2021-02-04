@@ -7,3 +7,5 @@ Esta es mi primera vez
 [Theremin - ojo, proyecto sin terminar -](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO.ino)
 
 [Proyecto love o meter](https://github.com/chenbangwei/Arduino/blob/main/love_o_meter.ino)
+
+[proyecto con theremin](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO_bang.ino) 
