@@ -9,3 +9,5 @@ Esta es mi primera vez
 [Proyecto love o meter](https://github.com/chenbangwei/Arduino/blob/main/love_o_meter.ino)
 
 [proyecto con theremin](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO_bang.ino) 
+
+[GENERADOR DE MELODIA ALEATORIA](https://github.com/chenbangwei/Arduino/blob/main/MELODIA_AUTOMATICA.ino)
