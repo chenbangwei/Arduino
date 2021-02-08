@@ -18,4 +18,4 @@ Esta es mi primera vez
 
 [GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino)
 
-![hÉLICE](https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg)
+![hÉLICE]
