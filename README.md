@@ -15,3 +15,7 @@ Esta es mi primera vez
 [trozo de codigo para incluir boton](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
 
 [Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+[GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino)
+
+![hÉLICE](https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg)
