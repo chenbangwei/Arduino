@@ -11,3 +11,5 @@ Esta es mi primera vez
 [proyecto con theremin](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO_bang.ino) 
 
 [GENERADOR DE MELODIA ALEATORIA](https://github.com/chenbangwei/Arduino/blob/main/MELODIA_AUTOMATICA.ino)
+
+[procesos](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
