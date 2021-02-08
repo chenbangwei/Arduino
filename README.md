@@ -12,4 +12,6 @@ Esta es mi primera vez
 
 [GENERADOR DE MELODIA ALEATORIA](https://github.com/chenbangwei/Arduino/blob/main/MELODIA_AUTOMATICA.ino)
 
-[procesos](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
+[trozo de codigo para incluir boton](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
+
+[Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
