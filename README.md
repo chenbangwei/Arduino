@@ -28,3 +28,7 @@ Esta es mi primera vez
 [dos botones cambiar ciclos de movimientos](https://github.com/chenbangwei/Arduino/blob/main/dos_botones.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
+
+[LED RGB,POTENCIÓMETRO,I BOTON](https://github.com/chenbangwei/Arduino/blob/main/LED_ajustable_con_bot_n_y_potenci_metro.ino)
+
+<img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_124928.jpg" alt="LED RGB,POTENCIÓMETRO,I BOTON" width="250"/>
