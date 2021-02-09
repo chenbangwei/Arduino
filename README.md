@@ -33,6 +33,6 @@ Esta es mi primera vez
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_124928.jpg" alt="LED RGB,POTENCIÓMETRO,I BOTON" width="250"/>
 
-[potenciómetro,boton i altavoz](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
+[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
