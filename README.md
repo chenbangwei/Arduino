@@ -24,3 +24,7 @@ Esta es mi primera vez
 [uso de dos botones](https://github.com/chenbangwei/Arduino/blob/main/uso_de_dos_botones.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
+
+[dos botones](https://github.com/chenbangwei/Arduino/blob/main/dos_botones.ino)
+
+<img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
