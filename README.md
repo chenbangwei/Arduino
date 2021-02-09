@@ -19,7 +19,7 @@ Esta es mi primera vez
 [GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino)
 
 
-<img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="500"/>
+<img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="250"/>
 
 [uso de dos botones](https://github.com/chenbangwei/Arduino/blob/main/uso_de_dos_botones.ino)
 
