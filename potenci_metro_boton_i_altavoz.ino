@@ -8,7 +8,7 @@ int switchState = 0;
 bool isTheButtonBeingPressed = false;
 bool play = false;
 
-int buttonPin= 4;
+int buttonPin= 13;
 
 void setup() {
 Serial.begin(9600);
