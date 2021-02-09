@@ -20,3 +20,7 @@ Esta es mi primera vez
 
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="500"/>
+
+[uso de dos botones](https://github.com/chenbangwei/Arduino/blob/main/uso_de_dos_botones.ino)
+
+<img src="https:https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="drawing" width="250"/>
