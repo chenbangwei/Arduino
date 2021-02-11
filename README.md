@@ -1,4 +1,5 @@
-:dog:
+:new_moon_with_face::dog::bear::hamster::cat::rabbit::mouse::wolf::tiger::koala::panda_face::pig::monkey_face::foggy::frog::full_moon_with_face:
+                                                            :zap:
 # PROYECTO DE ARDUINO:tea:
 ## Empezando a documentar:dango:
 Esta es mi primera vez
