@@ -2,10 +2,10 @@
                                                             :zap:
 # PROYECTO DE ARDUINO:tea:
 ## Empezando a documentar:dango:
-Esta es mi primera vez
+Esta es mi primera vez:trollface:
 
 ## Descripciòn del proyecto <:fish_cake:>
-hola,me llamo Bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
+hola,me llamo Bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc :trollface:
 ## Indice de proyectos:ramen:
 
 * [Proyectos con solo led y botones](https://github.com/chenbangwei/Arduino#proyectos-con-solo-led-y-botones)
@@ -20,8 +20,9 @@ hola,me llamo Bangwei.estamos programando arduino con una placa i varios disposi
 
 * [proyectos con otra documentación y enlaces](https://github.com/chenbangwei/Arduino#otra-documentaci%C3%B3n-y-enlaces)
 
-## Proyectos realizados:doughnut:
+:trollface:
 
+## Proyectos realizados:doughnut:
 
 ### Proyectos con solo led y botones:lemon:
 
@@ -77,3 +78,5 @@ potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei
 
 <del>texto</del> Deleted text
 :trollface:
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
