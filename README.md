@@ -7,9 +7,8 @@ Esta es mi primera vez
 hola,me llamo bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
 ## Indice de proyectos
 
-[Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-[Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+## Proyectos realizados
 
 
 ### Proyectos con solo led y botones
@@ -50,7 +49,14 @@ potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
-## Proyectos realizados
+### Otra documentación y enlaces
+
+[Emojis github](https://gist.github.com/rxaviers/7360908)
+
+[Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+[Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
 <b>texto</b> NEGRITA->Bold
