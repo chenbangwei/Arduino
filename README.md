@@ -4,11 +4,11 @@ Esta es mi primera vez
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
 
-<b>texto</b>NEGRITA->Bold
+<b>texto</b> NEGRITA->Bold
 
-<i>texto</i>Cursiva->Italics
+<i>texto</i> Cursiva->Italics
 
-<del>texto</del>Deleted text
+<del>texto</del> Deleted text
 
 [Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
