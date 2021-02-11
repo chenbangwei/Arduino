@@ -11,6 +11,14 @@ hola,me llamo bangwei.estamos programando arduino con una placa i varios disposi
 
 * [Proyectos con sensormotor y potenciómetro](https://github.com/chenbangwei/Arduino#proyectos-con-sensormotor-y-potenci%C3%B3metro)
 
+* [proyectos con sensor de temperatura](https://github.com/chenbangwei/Arduino#proyectos-sensor-de-temperatura)
+
+* [proyectos con LED RGB](https://github.com/chenbangwei/Arduino#proyectos-con-led-rgb)
+
+* [proyectos con con pieza(altavoz)](https://github.com/chenbangwei/Arduino#proyectos-con-piezaaltavoz)
+
+* [proyectos con otra documentación y enlaces](https://github.com/chenbangwei/Arduino#otra-documentaci%C3%B3n-y-enlaces)
+
 ## Proyectos realizados
 
 
