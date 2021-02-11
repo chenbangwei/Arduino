@@ -48,9 +48,9 @@ hola,me llamo bangwei.estamos programando arduino con una placa i varios disposi
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
 
-#Arduino
-##Descripción del proyecto
-##Indice de proyectos
+# Arduino
+## Descripción del proyecto
+## Indice de proyectos
 
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
