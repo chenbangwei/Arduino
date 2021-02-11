@@ -9,6 +9,8 @@ Esta es mi primera vez
 
 <del>texto</del> Deleted text
 
+## Descripciòn del proyecto
+
 hola,me llamo bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
 
 [Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
