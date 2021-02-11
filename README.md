@@ -25,6 +25,7 @@ hola,me llamo bangwei.estamos programando arduino con una placa i varios disposi
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_124928.jpg" alt="LED RGB,POTENCIÓMETRO,I BOTON" width="250"/>
 ### Proyectos con pieza(altavoz)
+
 [Theremin - ojo, proyecto sin terminar -](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO.ino)
 
 [proyecto con theremin](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO_bang.ino) 
