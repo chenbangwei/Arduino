@@ -34,6 +34,7 @@
 [Proyecto love o meter](https://github.com/chenbangwei/Arduino/blob/main/love_o_meter.ino)
 
 ### Proyectos con LED RGB:peach:
+
 [LED RGB,POTENCIÓMETRO,I BOTON·tomado de alba](https://github.com/chenbangwei/Arduino/blob/main/LED_ajustable_con_bot_n_y_potenci_metro.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_124928.jpg" alt="LED RGB,POTENCIÓMETRO,I BOTON" width="250"/>
@@ -48,7 +49,7 @@
 
 ### Proyectos con sensormotor y potenciómetro:green_apple:
 
-[GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino):rice_cracker:
+[GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/giro_de_helice.ino):rice_cracker:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="250"/>
 
@@ -56,9 +57,7 @@
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
-[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/giro_de_helice.ino):rice_ball:
-
-[otros](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
+[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino):rice_ball:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
 
