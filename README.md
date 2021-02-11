@@ -46,19 +46,19 @@ hola,me llamo Bangwei.estamos programando arduino con una placa i varios disposi
 [GENERADOR DE MELODIA ALEATORIA](https://github.com/chenbangwei/Arduino/blob/main/MELODIA_AUTOMATICA.ino)
 
 ### Proyectos con sensormotor y potenciómetro:green_apple:
-[GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino)
+[GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/Indicador_de_estado_de__nimo.ino):rice_cracker:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="250"/>
 
-[dos botones cambiar ciclos de movimientos](https://github.com/chenbangwei/Arduino/blob/main/dos_botones.ino)
+[dos botones cambiar ciclos de movimientos](https://github.com/chenbangwei/Arduino/blob/main/dos_botones.ino):curry:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
-potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
+[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino):rice_ball:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
 
-[uso de dos botones de suma i resta](https://github.com/chenbangwei/Arduino/blob/main/uso_de_dos_botones.ino)
+[uso de dos botones de suma i resta](https://github.com/chenbangwei/Arduino/blob/main/uso_de_dos_botones.ino):fries:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
