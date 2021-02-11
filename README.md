@@ -2,9 +2,8 @@
 ## Empezando a documentar
 Esta es mi primera vez
 
-## Descripciòn del proyecto
-
-hola,me llamo bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
+## Descripciòn del proyecto:fish_cake:
+hola,me llamo Bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
 ## Indice de proyectos
 
 * [Proyectos con solo led y botones](https://github.com/chenbangwei/Arduino#proyectos-con-solo-led-y-botones)
