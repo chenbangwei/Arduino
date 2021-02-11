@@ -56,7 +56,9 @@
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
-[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino):rice_ball:
+[potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/giro_de_helice.ino):rice_ball:
+
+[otros](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
 
