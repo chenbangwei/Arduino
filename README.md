@@ -64,6 +64,8 @@
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
+[melody con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/copia_i_pega.ino)
+
 ### Otra documentación y enlaces:bento:
 
 [Emojis github](https://gist.github.com/rxaviers/7360908)
