@@ -52,6 +52,11 @@ hola,me llamo bangwei.estamos programando arduino con una placa i varios disposi
 ## Descripción del proyecto
 ## Indice de proyectos
 ## Proyectos realizados
+### Proyectos con solo led y botones
+### Proyectos sensor de temperatura
+### Proyectos con LED RGB
+### Proyectos con pieza(altavoz)
+### Proyectos con sensormotor y potenciómetro
 
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
