@@ -76,3 +76,4 @@ potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei
 <i>texto</i> Cursiva->Italics
 
 <del>texto</del> Deleted text
+:trollface:
