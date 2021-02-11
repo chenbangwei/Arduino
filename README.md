@@ -1,11 +1,12 @@
 :new_moon_with_face::dog::bear::hamster::cat::rabbit::mouse::wolf::tiger::koala::panda_face::pig::monkey_face::foggy::frog::full_moon_with_face:
                                                             :zap:
 # PROYECTO DE ARDUINO:tea:
-## Empezando a documentar:dango:
-Esta es mi primera vez:trollface:
 
 ## Descripciòn del proyecto <:fish_cake:>
-hola,me llamo Bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc :trollface:
+
+¡Hola! Me llamo Bangwei. Estamos programando en placas arduino y utilizando varios dispositivos. Altavoces, leds, botones, etc. Esto es un repositorio.                                                                                    
+:trollface:
+
 ## Indice de proyectos:ramen:
 
 * [Proyectos con solo led y botones](https://github.com/chenbangwei/Arduino#proyectos-con-solo-led-y-botones)
@@ -80,3 +81,6 @@ hola,me llamo Bangwei.estamos programando arduino con una placa i varios disposi
 :trollface:
 
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
+
+## Empezando a documentar:dango:
+Esta es mi primera vez:trollface:
