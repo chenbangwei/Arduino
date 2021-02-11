@@ -3,12 +3,13 @@
 Esta es mi primera vez
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
-
 <b>texto</b> NEGRITA->Bold
 
 <i>texto</i> Cursiva->Italics
 
 <del>texto</del> Deleted text
+
+hola,me llamo bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
 
 [Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
