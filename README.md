@@ -47,3 +47,15 @@ hola,me llamo bangwei.estamos programando arduino con una placa i varios disposi
 [potenciómetro,boton i altavoz·tomado de wesley](https://github.com/chenbangwei/Arduino/blob/main/potenci_metro_boton_i_altavoz.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_134713.jpg" alt="potenciómetro,boton i altavoz" width="250"/>
+
+#Arduino
+##Descripción del proyecto
+##Indice de proyectos
+
+-Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
+
+<b>texto</b> NEGRITA->Bold
+
+<i>texto</i> Cursiva->Italics
+
+<del>texto</del> Deleted text
