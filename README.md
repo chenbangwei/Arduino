@@ -1,7 +1,10 @@
 # PROYECTO DE ARDUINO
 ## Empezando a documentar
 Esta es mi primera vez
-
+-Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
+<b>texto</b>NEGRITA->Bolo
+<i>texto</i>Cursiva->Italics
+<u>texto</u>Subrayado->Underlined
 [Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 [Theremin - ojo, proyecto sin terminar -](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO.ino)
