@@ -7,6 +7,8 @@ Esta es mi primera vez
 hola,me llamo bangwei.estamos programando arduino con una placa i varios dispositivos:altavoces,led i el boton....etc 
 ## Indice de proyectos
 
+* [Proyectos con solo led y botones]
+* [Proyectos con sensormotor y potenciómetro]
 
 ## Proyectos realizados
 
