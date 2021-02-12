@@ -27,7 +27,7 @@
 
 ### Proyectos con solo led y botones:lemon:
 
-[instrumento de teclado](https://github.com/chenbangwei/Arduino/blob/main/teclado%20de%20botones.ino)
+[reloj de arena digital](https://github.com/chenbangwei/Arduino/blob/main/reloj_de_arena_digital.ino)
 
 [trozo de codigo para incluir boton](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
 
@@ -48,6 +48,8 @@
 [proyecto con theremin](https://github.com/chenbangwei/Arduino/blob/main/THEREMIN__PTICO_bang.ino) 
 
 [GENERADOR DE MELODIA ALEATORIA](https://github.com/chenbangwei/Arduino/blob/main/MELODIA_AUTOMATICA.ino)
+
+[instrumento de teclado](https://github.com/chenbangwei/Arduino/blob/main/teclado%20de%20botones.ino)
 
 ### Proyectos con sensormotor y potenciómetro:green_apple:
 
