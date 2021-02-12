@@ -27,6 +27,8 @@
 
 ### Proyectos con solo led y botones:lemon:
 
+[instrumento de teclado](https://github.com/chenbangwei/Arduino/blob/main/teclado%20de%20botones.ino)
+
 [trozo de codigo para incluir boton](https://github.com/chenbangwei/Arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
 
 ### Proyectos sensor de temperatura:melon:
@@ -66,6 +68,8 @@
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210209_094755.jpg" alt="uso de dos botones" width="250"/>
 
 [melody con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/copia_i_pega.ino)
+
+[instrumento con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/notas_con_potenci_metro.ino)
 
 ### Otra documentación y enlaces:bento:
 
