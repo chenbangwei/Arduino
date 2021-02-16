@@ -53,6 +53,8 @@
 
 ### Proyectos con sensormotor y potenciómetro:green_apple:
 
+[programa con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/progrma_de_potenci_metro.ino)
+
 [GIRO DE ELICE](https://github.com/chenbangwei/Arduino/blob/main/giro_de_helice.ino):rice_cracker:
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/20210208_121808.jpg" alt="drawing" width="250"/>
