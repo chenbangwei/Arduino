@@ -36,6 +36,9 @@
 [Proyecto love o meter](https://github.com/chenbangwei/Arduino/blob/main/love_o_meter.ino)
 
 ### Proyectos con LED RGB:peach:
+
+[cambio de orden de pin con LED RGB I POTENCIÓMETRO](https://github.com/chenbangwei/Arduino/blob/main/cambio_de_orden.ino)
+
 [LED RGB con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/potenciometro_led.ino)
 
 [LED RGB,POTENCIÓMETRO,I BOTON·tomado de alba](https://github.com/chenbangwei/Arduino/blob/main/LED_ajustable_con_bot_n_y_potenci_metro.ino)
