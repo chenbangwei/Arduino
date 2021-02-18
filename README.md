@@ -81,6 +81,8 @@
 
 ### Otra documentación y enlaces:bento:
 
+[molinillo motorizado](https://github.com/chenbangwei/Arduino/blob/main/molillo_arduino.ino)
+
 [Emojis github](https://gist.github.com/rxaviers/7360908)
 
 [Atajos cortos Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
