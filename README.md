@@ -81,6 +81,8 @@
 
 ### Otra documentación y enlaces:bento:
 
+[molillo con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/potenciometro_molillo.ino)
+
 [molinillo motorizado](https://github.com/chenbangwei/Arduino/blob/main/molillo_arduino.ino)
 
 [Emojis github](https://gist.github.com/rxaviers/7360908)
