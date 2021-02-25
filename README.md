@@ -82,6 +82,9 @@
 [instrumento con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/notas_con_potenci_metro.ino)
 
 ### Otra documentación y enlaces:bento:
+
+[joystick](https://github.com/chenbangwei/Arduino/blob/main/joystick.ino)
+
 [molinillo con botones de 9V](https://github.com/chenbangwei/Arduino/blob/main/teclado_con_molinillo.ino)
 
 [molillo con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/potenciometro_molillo.ino)
