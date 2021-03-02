@@ -89,7 +89,7 @@
 
 [joystick i led](https://github.com/chenbangwei/Arduino/blob/main/funcion_de_joystick_i_led.ino)
 
-<img src="https://github.com/chenbangwei/Arduino/blob/main/joystick%20i%20led.jpg" alt="joystick i led" width="250"/>
+<img src="https://github.com/chenbangwei/Arduino/blob/main/joystick%20i%20led.jpg" alt="joystick i led" width="300"/>
 
 [joystick](https://github.com/chenbangwei/Arduino/blob/main/joystick.ino)
 
