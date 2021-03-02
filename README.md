@@ -31,7 +31,6 @@
 
 [funcion con boton i leds](https://github.com/chenbangwei/Arduino/blob/main/funcion_con_boton_i_leds_de_comprobacion.ino)
 
-
 [encender i apagar,apagar i encender](https://github.com/chenbangwei/Arduino/blob/main/apagar_i_encender_apagar_i_encender.ino)
 
 [reloj de arena digital](https://github.com/chenbangwei/Arduino/blob/main/reloj_de_arena_digital.ino)
@@ -87,6 +86,10 @@
 [instrumento con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/notas_con_potenci_metro.ino)
 
 ### Otra documentación y enlaces:bento:
+
+[joystick i led](https://github.com/chenbangwei/Arduino/blob/main/funcion_de_joystick_i_led.ino)
+
+<img src="https://github.com/chenbangwei/Arduino/blob/main/joystick%20i%20led.jpg" alt="joystick i led" width="250"/>
 
 [joystick](https://github.com/chenbangwei/Arduino/blob/main/joystick.ino)
 
