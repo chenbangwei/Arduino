@@ -15,7 +15,7 @@ const int pinEjeY = A1;
 const int pinEjeX = A0; 
 const int pinLed = 2;
 //Definición de variables globales 
-int estadoBoton = 1;
+int valorEjeX = 0;
 void setup() {
 //inicializaciones
 pinMode(pinLed,OUTPUT);
@@ -26,12 +26,12 @@ pinMode(pinLed,OUTPUT);
 }
 
 void loop() {
-  estadoBoton=digitalRead(pinBoton);
-   if (estadoBoton == LOW){
+valorEjeX = analogRead(pinEjeX);
+ if(valorEjeX>800){
   digitalWrite(pinLed, HIGH);
  }
  else{
   digitalWrite(pinLed, LOW);
  }
- //código que se repite una y otra vez. Recuerda colocar las funciones que hagan falta para que sea más claro.  
-}  
+ //código que se repite una y otra vez. Recuerda colocar las funciones que hagan falta para que sea más claro. 
+}
