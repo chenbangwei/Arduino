@@ -89,6 +89,10 @@
 
 ### Otra documentación y enlaces:bento:
 
+[joystick a la derecha](https://github.com/chenbangwei/Arduino/blob/main/funcion_de_joystick_i_led.ino)
+
+<img src="https://github.com/chenbangwei/Arduino/blob/main/funcion%20a%20la%20derecha.jpg" alt="joystick i led a la derecha" width="300"/>
+
 [joystick i led](https://github.com/chenbangwei/Arduino/blob/main/funcion_de_joystick_i_led.ino)
 
 <img src="https://github.com/chenbangwei/Arduino/blob/main/joystick%20i%20led.jpg" alt="joystick i led" width="300"/>
