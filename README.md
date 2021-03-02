@@ -95,6 +95,8 @@
 
 [joystick](https://github.com/chenbangwei/Arduino/blob/main/joystick.ino)
 
+<img src="https://github.com/chenbangwei/Arduino/blob/main/joystick.jpg" alt="joystick " width="300"/>
+
 [molinillo con botones de 9V](https://github.com/chenbangwei/Arduino/blob/main/teclado_con_molinillo.ino)
 
 [molillo con potenciómetro](https://github.com/chenbangwei/Arduino/blob/main/potenciometro_molillo.ino)
