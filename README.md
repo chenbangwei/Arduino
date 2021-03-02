@@ -31,7 +31,7 @@
 
 [funcion con boton i leds](https://github.com/chenbangwei/Arduino/blob/main/funcion_con_boton_i_leds_de_comprobacion.ino)
 
-<img src="https://github.com/chenbangwei/Arduino/blob/main/molinillo%20i%20led.jpg<img" alt="led continuos" width="250"/>
+<img src="https://github.com/chenbangwei/Arduino/blob/main/molinillo%20i%20led.jpg" alt="led continuos" width="250"/>
 
 [encender i apagar,apagar i encender](https://github.com/chenbangwei/Arduino/blob/main/apagar_i_encender_apagar_i_encender.ino)
 
