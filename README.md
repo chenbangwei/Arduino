@@ -89,6 +89,8 @@
 
 ### Otra documentación y enlaces:bento:
 
+[media de nota](https://github.com/chenbangwei/Arduino/blob/main/media_de_notas.ino)
+
 [bola de cristal](https://github.com/chenbangwei/Arduino/blob/main/bola_de_cristal.ino)
 
 [radar](https://github.com/chenbangwei/Arduino/blob/main/radar.ino)
