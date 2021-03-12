@@ -28,6 +28,7 @@ valorY = analogRead(y);
     }
    if(estadoBoton == LOW){
    encenderled = !encenderled;
+     encenderled0 = true;
     }
   
 Serial.print("Boton z: pinLed  ");
