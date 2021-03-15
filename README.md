@@ -89,6 +89,8 @@
 
 ### Otra documentación y enlaces:bento:
 
+[zootropo](https://github.com/chenbangwei/Arduino/blob/main/zootropo.ino)
+
 [leds con joystick](https://github.com/chenbangwei/Arduino/blob/main/tres_leds_con_joystick.ino)
 
 [media de nota](https://github.com/chenbangwei/Arduino/blob/main/media_de_notas.ino)
