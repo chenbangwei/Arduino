@@ -27,6 +27,8 @@
 
 ### Proyectos con solo led y botones:lemon:
 
+[Semaforo](https://github.com/chenbangwei/Arduino/blob/main/semaforo.ino)
+
 [comprobacion de leds](https://github.com/chenbangwei/Arduino/blob/main/comprobaciones_de_leds.ino)
 
 [funcion con boton i leds](https://github.com/chenbangwei/Arduino/blob/main/funcion_con_boton_i_leds_de_comprobacion.ino)
