@@ -133,7 +133,7 @@
 
 [PROBLEMA 1](https://github.com/chenbangwei/Arduino/blob/main/problema_1_examen.ino)
 
-[PROBLEMA 2 SIN ACABAR]()
+[PROBLEMA 2 SIN ACABAR](https://github.com/chenbangwei/Arduino/blob/main/problema_2_examen.ino)
 
 [PROBLEMA 4 SIN ACABAR](https://github.com/chenbangwei/Arduino/blob/main/PROBLEMA_4_EXAMEN.ino)
 
