@@ -21,7 +21,7 @@
 
 * [proyectos con otra documentación y enlaces](https://github.com/chenbangwei/Arduino#otra-documentaci%C3%B3n-y-enlacesbento)
 
-*[EXAMENES](https://github.com/chenbangwei/Arduino/blob/main/problema_1_examen.ino)
+* [EXAMENES](https://github.com/chenbangwei/Arduino/blob/main/problema_1_examen.ino)
 
 :trollface:
 
