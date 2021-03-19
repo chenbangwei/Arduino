@@ -127,6 +127,14 @@
 
 [Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+### EXAMENES
+
+[PROBLEMA 1](https://github.com/chenbangwei/Arduino/blob/main/problema_1_examen.ino)
+
+[PROBLEMA 2 SIN ACABAR]()
+
+[PROBLEMA 3 SIN ACABAR]()
+
 -Este texto no tiene formato.**Este está en negrita**.Y,además_este está en cursiva_.
 
 <b>texto</b> NEGRITA->Bold
