@@ -17,7 +17,7 @@ myServo.attach(9);
 pinMode(yellowLed,OUTPUT);
 pinMode(redLed,OUTPUT);
 pinMode(greenLed,OUTPUT);
-pinMode(switchPin,OUTPUT);
+pinMode(switchPin,INPUT);
 Serial.begin(9600);
 digitalWrite(greenLed,HIGH);
 myServo.write(0);
