@@ -93,6 +93,8 @@
 
 ### Otra documentación y enlaces:bento:
 
+[cerrojo de puerta](https://github.com/chenbangwei/Arduino/blob/main/cerrojo_de_puertas.ino)
+
 [zootropo](https://github.com/chenbangwei/Arduino/blob/main/zootropo.ino)
 
 [leds con joystick](https://github.com/chenbangwei/Arduino/blob/main/tres_leds_con_joystick.ino)
