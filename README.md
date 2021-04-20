@@ -131,10 +131,12 @@
 
 [Repositorio de alumnos](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+[copiado de javi](https://github.com/chenbangwei/Arduino/blob/main/copiado_de_javi.ino)
+
 ### EXAMENES
 
 [PROBLEMA 1](https://github.com/chenbangwei/Arduino/blob/main/problema_1_examen.ino)
-
+https://github.com/chenbangwei/Arduino/blob/main/copiado_de_javi.ino
 [PROBLEMA 2 SIN ACABAR](https://github.com/chenbangwei/Arduino/blob/main/problema_2_examen.ino)
 
 [PROBLEMA 4 SIN ACABAR](https://github.com/chenbangwei/Arduino/blob/main/PROBLEMA_4_EXAMEN.ino)
